@@ -1,4 +1,4 @@
-React Jira Application
+###### React Jira Application
 This project is a Jira-like task management application developed using React. The main goal of this project was to deepen my understanding of core React concepts such as useState, useEffect, and Context API while integrating a backend to store persistent data.
 
 Key Features:
